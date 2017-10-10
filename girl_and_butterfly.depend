@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1506290568 source:e:\unal\2017-2\girl_and_butterfly\main.cpp
+	"grafico.h"
+
+1506290720 e:\unal\2017-2\girl_and_butterfly\grafico.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"mecanica.h"
+
+1505234757 e:\unal\2017-2\girl_and_butterfly\mecanica.h
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1506295856 source:e:\unal\2017-2\girl_and_butterfly\mecanica.cpp
+	"mecanica.h"
+
+1506296096 source:e:\unal\2017-2\girl_and_butterfly\grafico.cpp
+	"grafico.h"
+
+1506290568 source:f:\girl_and_butterfly\main.cpp
+	"grafico.h"
+
+1506290720 f:\girl_and_butterfly\grafico.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"mecanica.h"
+
+1506296318 f:\girl_and_butterfly\mecanica.h
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1506295856 source:f:\girl_and_butterfly\mecanica.cpp
+	"mecanica.h"
+
+1506298024 source:f:\girl_and_butterfly\grafico.cpp
+	"grafico.h"
+
+1506914913 source:c:\users\zelde\desktop\girl_and_butterfly\grafico.cpp
+	"grafico.h"
+
+1506916005 c:\users\zelde\desktop\girl_and_butterfly\grafico.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"mecanica.h"
+
+1507408748 c:\users\zelde\desktop\girl_and_butterfly\mecanica.h
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1507408664 source:c:\users\zelde\desktop\girl_and_butterfly\main.cpp
+	"grafico.h"
+
+1506788746 source:c:\users\zelde\desktop\girl_and_butterfly\mecanica.cpp
+	"mecanica.h"
+
+1507422596 source:e:\unal\2017-2\girl_and_butterfly_1.2\grafico.cpp
+	"grafico.h"
+
+1507422596 e:\unal\2017-2\girl_and_butterfly_1.2\grafico.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"mecanica.h"
+
+1507422596 e:\unal\2017-2\girl_and_butterfly_1.2\mecanica.h
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1507423419 source:e:\unal\2017-2\girl_and_butterfly_1.2\main.cpp
+	"grafico.h"
+
+1507423091 source:e:\unal\2017-2\girl_and_butterfly_1.2\mecanica.cpp
+	"mecanica.h"
+
